@@ -1,3 +1,14 @@
+## About Me  
+
+Bachelor of Information Systems (Data Analytics) student at Sunway University, Selangor.  
+- CGPA: 3.81 | Dean’s List Award (4 semesters)  
+- Actively involved in Sunway Analytics Society (SAS), contributing to events and projects.  
+- Experienced in leadership and volunteering through AIESEC.  
+- Skilled in Excel, Python, SQL, and SAS.  
+- Available for internship from 19 January 2026 to 17 April 2026.  
+
+
+
 # Projects
 
 ## Sleep Health and Lifestyle Analysis
