@@ -1,232 +1,245 @@
-## About Me  
+# Keertana A/P Subramaniam
 
-- Bachelor of Information Systems (Data Analytics) student at Sunway University, Selangor.  
-- CGPA: 3.81
-- Dean’s List Award for 4 semesters
-- Actively involved in Sunway Analytics Society (SAS), contributing to events and projects.  
-- Experienced in leadership and volunteering through AIESEC.  
-- Skilled in Excel, Python, SQL, and SAS.  
-- Available for internship from 19 January 2026 to 17 April 2026.  
+📍 Bachelor of Information Systems (Data Analytics), Sunway University, Selangor
+📊 CGPA: 3.81
+🏆 Dean’s List Award (4 semesters)
+📅 Available for Internship: 19 January 2026 – 17 April 2026
 
+---
 
+## 👩‍💻 About Me
 
-# Projects
+* Actively involved in **Sunway Analytics Society (SAS)** – contributing to data analytics events and projects.
+* Experienced in **leadership and volunteering** through AIESEC.
+* Skilled in **Excel, Python, SQL, and SAS**.
+* Passionate about **data-driven problem solving** and applying analytics to real-world challenges.
 
-## Sleep Health and Lifestyle Analysis
+---
+
+# 📂 Projects
+
+---
+
+## 1. Sleep Health and Lifestyle Analysis
 
 **Tools:** SAS Enterprise Guide, Excel, Kaggle Dataset
 
 **Objectives:**
-- Evaluate whether the average sleep duration aligns with recommended guidelines.  
-- Compare sleep quality between genders.  
-- Analyze the effect of BMI on sleep duration.  
-- Build a predictive model of sleep duration based on lifestyle and health indicators.  
 
-**Key Analyses:**
-- Performed descriptive analysis (distribution of BMI, sleep duration, activity levels).  
-- Conducted hypothesis testing (one-sample t-test, two-sample t-test, ANOVA).  
-- Built a multiple linear regression model to predict sleep duration using quality of sleep, age, and physical activity.  
+* Evaluate whether the average sleep duration aligns with recommended guidelines.
+* Compare sleep quality between genders.
+* Analyze the effect of BMI on sleep duration.
+* Build a predictive model of sleep duration based on lifestyle and health indicators.
+
+**Key Analysis:**
+
+* Performed descriptive analysis (distribution of BMI, sleep duration, activity levels).
+* Conducted hypothesis testing (one-sample t-test, two-sample t-test, ANOVA).
+* Built a multiple linear regression model to predict sleep duration using quality of sleep, age, and physical activity.
 
 **Findings:**
-- Average sleep duration (7.13 hours) was slightly higher than the recommended 7 hours.  
-- Significant gender differences in sleep quality were observed.  
-- BMI impacted sleep duration, with overweight individuals sleeping less on average.  
-- Regression model (R² = 0.79) identified **quality of sleep** as the strongest predictor of sleep duration, followed by age and physical activity.  
 
-[View Dataset on Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+* Average sleep duration (7.13 hours) was slightly higher than the recommended 7 hours.
+* Significant gender differences in sleep quality were observed.
+* BMI impacted sleep duration, with overweight individuals sleeping less on average.
+* Regression model (R² = 0.79) identified **quality of sleep** as the strongest predictor of sleep duration, followed by age and physical activity.
 
+**Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+**Report Document:** [Download Report (PDF)](link-to-pdf)
 
-## DreamHaven Online Lodging Platform – Database Design & Implementation
+---
 
-**Tools & Skills:** SQL, ERD Modeling, Relational Database Design, Oracle SQL Developer  
+## 2. DreamHaven Online Lodging Platform – Database Design & Implementation
 
-**Project Overview:**  
-Designed and implemented a relational database system for *DreamHaven*, an online marketplace connecting hosts and guests for unique lodging experiences in Malaysia. The project covered end-to-end database development, from requirements analysis to implementation.  
+**Tools:** SQL, ERD Modeling, Relational Database Design, Oracle SQL Developer
 
-**Key Contributions:**  
-- Developed a **case scenario** and **Entity-Relationship Diagram (ERD)** capturing entities such as Hosts, Guests, Properties, Bookings, Payments, Facilities, and Reviews.  
-- Applied **business rules and constraints** (age restrictions, unique property addresses, booking/payment deadlines, etc.).  
-- Designed **relational schema** with primary, foreign, and alternate keys, ensuring data integrity.  
-- Implemented **constraints and triggers** (e.g., age ≥ 18 validation, valid rating 1–5, booking/payment deadlines).  
-- Created **indexes** for performance optimization on booking status, property type, ratings, etc.  
-- Wrote **SQL queries** to answer business questions such as:  
-  - Identifying low-rated budget properties (for service improvement).  
-  - Analyzing most popular properties and hosts based on bookings, ratings, and revenue.  
-  - Matching experienced hosts with new hosts for mentorship programs.  
-  - Detecting properties with declining popularity.  
-  - Listing frequent guests with high booking value.  
+**Objectives:**
 
-**Outcome:**  
-Delivered a functional, optimized database system that demonstrates strong understanding of **database modeling, normalization, SQL constraints, indexing, and querying for business insights**.
+* Design and implement a relational database system for *DreamHaven*, an online lodging platform.
+* Apply business rules and constraints for data integrity.
+* Support business queries for insights into bookings, ratings, and revenue.
 
+**Key Analysis:**
 
-### Consumer Behaviour Analysis – Principles of Business Analytics (BAA1034)
+* Created **ERD** with entities (Hosts, Guests, Properties, Bookings, Payments, Facilities, Reviews).
+* Implemented constraints and triggers (age ≥ 18, valid ratings, booking deadlines).
+* Added indexes for optimization (property type, booking status, ratings).
+* Designed and executed SQL queries for insights (popular hosts, low-rated properties, frequent guests).
 
-**Tools used:** Microsoft Excel (PivotTables, VLOOKUP, COUNTIF, Descriptive Statistics, Probability Analysis, Box Plots, Treemaps)
+**Findings:**
 
-**Overview:**
-Analyzed consumer shopping behaviour using a dataset of 2,000 randomly sampled observations. The dataset included demographics, purchase details, payment methods, and purchase frequency. The project focused on uncovering meaningful insights into shopping patterns and preferences.
+* Delivered a functional database with strong normalization, constraints, and performance optimization.
+* Supported actionable business questions (e.g., service improvement, property popularity trends).
 
-**Highlights:**
+**Kaggle Dataset:** Not applicable
+**Report Document:** [Download Report (PDF)](link-to-pdf)
 
-* Categorized customers into six age groups to study purchase frequency trends.
-* Compared spending habits of customers below 35 vs. 35 and above.
-* Conducted probability analysis on age groups and payment methods.
-* Created visualizations (Box Plots, Treemaps) to display purchasing behaviour.
-* Key findings:
+---
 
-  * Younger customers purchased more frequently (bi-weekly).
-  * Older customers spent slightly more on average.
-  * Clothing was the top-selling category; dresses were the most popular item.
+## 3. Consumer Behaviour Analysis – Principles of Business Analytics (BAA1034)
 
-**Key Takeaway:**
-Applied statistical tools and Excel functions to interpret consumer behaviour, identify spending trends, and visualize business insights.
+**Tools:** Microsoft Excel (PivotTables, VLOOKUP, COUNTIF, Probability, Descriptive Statistics, Box Plots, Treemaps)
 
+**Objectives:**
 
-## Analyzing Workplace Dynamics: Factors Influencing Employee Performance, Satisfaction, and Training Opportunities
+* Study customer shopping behaviour using 2,000 observations.
+* Compare frequency and spending habits by age groups.
+* Conduct probability analysis on payment methods and age groups.
+
+**Key Analysis:**
+
+* Categorized customers into six age groups.
+* Compared spending between customers <35 vs. ≥35.
+* Conducted probability analysis on purchases by age and payment.
+* Visualized results using Box Plots and Treemaps.
+
+**Findings:**
+
+* Younger customers purchased more frequently (bi-weekly).
+* Older customers spent slightly more per transaction.
+* Clothing (especially dresses) was the most popular item.
+
+**Kaggle Dataset:** Not applicable
+**Report Document:** [Download Report (Word/PDF)](link-to-doc)
+
+---
+
+## 4. Analyzing Workplace Dynamics: Employee Performance, Satisfaction & Training
 
 **Tools:** SAS OnDemand for Academics, Kaggle Dataset
 
 **Objectives:**
 
-* Assess whether manager ratings differ across departments.
-* Examine gender-based differences in employee performance ratings.
-* Identify the strongest factor influencing job satisfaction (work-life balance, relationship satisfaction, environment satisfaction, or salary).
-* Analyze access to training opportunities across departments.
+* Assess if manager ratings differ across departments.
+* Compare gender-based performance and satisfaction.
+* Identify the strongest factor influencing job satisfaction.
+* Examine access to training opportunities across departments.
 
-**Key Analyses:**
+**Key Analysis:**
 
-* Data pre-processing, cleaning, and merging of `Employee.csv` and `PerformanceRating.csv` datasets (1,470 employees, 5,568 records).
-* Descriptive statistics and visualization of manager ratings across departments.
-* ANOVA to test performance rating differences between departments.
-* Independent t-tests to compare salary and satisfaction ratings between genders.
-* Correlation analysis of job satisfaction with work-life balance, environment satisfaction, relationship satisfaction, and salary.
-
-**Findings:**
-
-* **Manager ratings** did not significantly differ across departments (HR, Sales, Technology), suggesting fairness in performance evaluation.
-* **No significant gender disparities** were observed in performance ratings, salary, or satisfaction metrics.
-* **Environmental satisfaction** showed a weak but significant relationship with job satisfaction in 2021, though not in 2016, indicating a growing importance of workplace environment.
-* **Training opportunities** were distributed equitably across departments, reflecting consistent policies for employee development.
-
-[View Dataset on Kaggle](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance)
-
-
-## Enterprise Architecture for Trendy (Group Project)
-
-**Course:** EAC2014 Enterprise Architecture
-**Tools/Concepts:** Enterprise Architecture Frameworks (CSVLOD Model, Operating Models, Business Capabilities, ERP, IMS, RMS)
-
-**Objectives:**
-
-* Develop an Enterprise Architecture (EA) strategy for *Trendy*, a growing fashion retailer.
-* Address operational challenges such as inventory management, reverse logistics, and data fragmentation.
-* Propose IT-enabled solutions to support scalability, efficiency, and sustainability.
-
-**Key Analyses:**
-
-* Designed unified **operating models** for reverse logistics, inventory management, and enterprise resource planning.
-* Identified **business capabilities** and mapped them to IT systems (ERP, IMS, RMS).
-* Applied the **CSVLOD framework** (Consideration, Standard, Vision, Landscape, Outline, Design) to align IT with business needs.
-* Recommended policies and principles (e.g., IT integration standards, data management practices, reverse logistics optimization).
-
-**Findings & Recommendations:**
-
-* Implementing an **integrated ERP system** would reduce data silos and improve decision-making.
-* **Inventory Management System (IMS)** with real-time tracking and AI forecasting could enhance demand planning.
-* A **Returns Management System (RMS)** would streamline reverse logistics, improving customer satisfaction and cost efficiency.
-* EA roadmap supports Trendy’s long-term vision of a **digitally enabled omni-channel retailer** with sustainable operations.
-
-
-## Smart iZone Waitlist System
-
-**Course:** Systems Analysis & Design
-**Tools/Concepts:** SDLC (Waterfall), Figma (Prototyping), UML Diagrams (Use Case, Sequence, State Transition), Usability Testing
-
-**Objectives:**
-
-* Enhance Sunway University’s iZone enrolment portal with an automated waitlist system.
-* Introduce **real-time slot updates**, **queue transparency**, and **notification alerts**.
-* Reduce student stress during enrolment and ease administrative workload.
-
-**Key Features:**
-
-* Automated waitlist queue (First-Come First-Serve allocation).
-* Real-time **Live Dashboard** with auto-refresh functionality.
-* In-app and email **alert notifications** for seat availability and conflicts.
-* User-centered design approach with iterative testing and feedback.
-
-**Results:**
-
-* Prototype developed in **Figma**, tested with Sunway students and lecturer.
-* **System Usability Score (SUS): 80.75** → rated “Excellent Usability.”
-* Students reported higher satisfaction, improved transparency, and confidence using the system.
-* Improvements included clearer conflict alerts, visible notification icons, and smoother navigation.
-
-**Impact:**
-The Smart Waitlist System reduces manual monitoring, ensures fair seat distribution, and improves overall enrolment efficiency. It demonstrates how **automation + usability testing** can reshape university enrolment systems for better student and staff experiences.
-
-
-## DobiQueen QR-Based Laundry Cycle Tracker
-
-**Course:** Systems Analysis & Design
-**Tools/Concepts:** SDLC (Waterfall), Figma (Prototyping), UML (Use Case, Activity, Context Diagrams), QR & Web-Based Tracking
-
-**Objectives:**
-
-* Enhance walk-in customer experience at **dobiQueen** (a Malaysian laundry SME).
-* Introduce a **QR-based web tracker** to deliver real-time laundry cycle updates.
-* Reduce idle waiting, missed collections, and machine turnover delays.
-
-**Key Features:**
-
-* QR code scan to start a session and track machine cycle.
-* **Real-time countdown** displayed in browser.
-* Push notifications (“5 minutes remaining” and “Cycle complete”).
-* Admin features for machine registration, cycle monitoring, and usage logs.
-
-**System Design Highlights:**
-
-* Cloud-hosted client–server model for scalability across outlets.
-* Mobile-first UI mock-up in **Figma**, optimized for quick interaction.
-* Integration of activity, use case, and context diagrams to ensure requirements alignment.
-
-**Expected Benefits:**
-
-* Faster machine turnover and fewer disputes among walk-in customers.
-* Lower frustration from missed cycle completions.
-* Strengthened customer trust and operational efficiency.
-
-**Reflection:**
-This project demonstrated how **requirements analysis + usability-driven design** can improve customer experiences in traditional service environments. It also reinforced skills in SDLC documentation, stakeholder analysis, and creating scalable, technology-driven solutions.
-
-
-## Predictive Modelling of Child Mortality Among Teen Mothers in Western Kenya
-
-**Tools:** Python (Pandas, Scikit-learn, Matplotlib, Seaborn), Google Colab, Harvard Dataverse Dataset
-
-**Objectives:**
-
-* Build machine learning models to predict child mortality risk among children born to teenage mothers in Western Kenya.
-* Compare performance of multiple algorithms (Logistic Regression, Decision Tree, Random Forest, SVM, Naive Bayes, XGBoost).
-* Identify socio-economic, health, and psychological factors that influence child mortality.
-
-**Key Analyses:**
-
-* Data preprocessing: filtering for teenage mothers, encoding categorical variables, handling missing data, normalization.
-* Applied oversampling and tuning techniques (SMOTE, class weighting, GridSearchCV) to address class imbalance.
-* Evaluated models with multiple performance metrics (accuracy, precision, recall, F1-score, confusion matrix).
+* Pre-processed and merged Employee.csv and PerformanceRating.csv datasets.
+* Conducted descriptive statistics and ANOVA for manager ratings.
+* Ran t-tests on gender-based performance and salary.
+* Used correlation analysis to explore job satisfaction factors.
 
 **Findings:**
 
-* Logistic Regression achieved the most balanced performance (Recall = 66.8%, F1-score = 67.3%), making it the most reliable model for early risk identification.
-* Models like Random Forest and Naive Bayes showed high accuracy (>89%) but poor recall, failing to detect many child death cases.
-* Socio-economic (education, wealth index), psychological (mental health scores), and maternal factors (previous child mortality, loan burden) emerged as important predictors.
-* Demonstrated that recall and F1-score are more important than accuracy in imbalanced, high-stakes datasets.
+* No significant disparities in manager ratings across departments.
+* No significant gender-based differences in salary or satisfaction.
+* Environmental satisfaction emerged as a growing factor (2021).
+* Training opportunities were distributed equitably across departments.
 
-**Impact:**
+**Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance)
+**Report Document:** [Download Report (PDF)](link-to-pdf)
 
-* Supports the development of early-warning systems for NGOs and public health authorities.
-* Provides actionable insights into high-risk populations to guide targeted interventions in low-resource settings.
+---
 
-[View Dataset on Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QOPLVI)
+## 5. Enterprise Architecture for Trendy (Fashion Retailer)
+
+**Tools:** Enterprise Architecture Frameworks (CSVLOD Model, Operating Models, ERP, IMS, RMS)
+
+**Objectives:**
+
+* Propose an EA strategy for Trendy to address operational inefficiencies.
+* Develop models for inventory, returns, and data integration.
+* Align IT with business strategy for scalability and sustainability.
+
+**Key Analysis:**
+
+* Designed **operating models** for logistics, inventory, and ERP.
+* Identified business capabilities mapped to IT solutions.
+* Applied **CSVLOD framework** to structure EA planning.
+
+**Findings:**
+
+* Integrated ERP reduces silos and enhances decision-making.
+* IMS improves demand planning with AI forecasting.
+* RMS streamlines reverse logistics, reducing cost and boosting customer satisfaction.
+
+**Kaggle Dataset:** Not applicable
+**Report Document:** [Download Report (PDF)](link-to-pdf)
+
+---
+
+## 6. Smart iZone Waitlist System
+
+**Tools:** SDLC (Waterfall), Figma, UML Diagrams (Use Case, Sequence, State Transition), Usability Testing
+
+**Objectives:**
+
+* Enhance Sunway University’s iZone enrolment portal.
+* Automate waitlists and provide real-time updates.
+* Reduce stress for students and workload for staff.
+
+**Key Analysis:**
+
+* Designed automated queue, live dashboard, and conflict alerts.
+* Built prototype in Figma and conducted pilot testing.
+* Measured usability with System Usability Scale (SUS).
+
+**Findings:**
+
+* SUS Score = 80.75 (Excellent Usability).
+* Students reported improved transparency and reduced stress.
+* Notifications and dashboard auto-refresh improved efficiency.
+
+**Kaggle Dataset:** Not applicable
+**Report Document:** [Download Report (PDF)](link-to-pdf)
+
+---
+
+## 7. DobiQueen QR-Based Laundry Cycle Tracker
+
+**Tools:** SDLC (Waterfall), UML (Use Case, Activity, Context Diagrams), Figma, QR & Web-Based Tracking
+
+**Objectives:**
+
+* Improve customer experience at dobiQueen laundromats.
+* Introduce QR-based web tracker for cycle monitoring.
+* Reduce idle waiting and missed collections.
+
+**Key Analysis:**
+
+* Designed mobile-first prototype with QR scan to start sessions.
+* Implemented real-time countdown with notifications.
+* Created cloud-hosted architecture for scalability.
+
+**Findings:**
+
+* Faster machine turnover and reduced disputes.
+* Improved transparency and user convenience.
+* Demonstrated scalable design for SME growth.
+
+**Kaggle Dataset:** Not applicable
+**Report Document:** [Download Report (PDF)](link-to-pdf)
+
+---
+
+## 8. Predictive Modelling of Child Mortality Among Teen Mothers in Western Kenya
+
+**Tools:** Python (Pandas, Scikit-learn, Matplotlib, Seaborn), Harvard Dataverse Dataset
+
+**Objectives:**
+
+* Build predictive ML models for child mortality risk.
+* Compare algorithm performance on imbalanced data.
+* Identify key socio-economic and health predictors.
+
+**Key Analysis:**
+
+* Preprocessed data (filtering, encoding, missing values, normalization).
+* Applied oversampling (SMOTE) and class weighting.
+* Compared Logistic Regression, Random Forest, SVM, Naive Bayes, XGBoost.
+
+**Findings:**
+
+* Logistic Regression: most reliable (Recall 66.8%, F1 = 67.3%).
+* Random Forest & Naive Bayes had high accuracy but poor recall.
+* Socio-economic and maternal factors were most predictive.
+* Highlighted recall > accuracy in healthcare predictions.
+
+**Kaggle Dataset:** Not applicable
+**Report Document:** [Download Report (PDF)](link-to-pdf)
+**Dataset:** [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QOPLVI)
+
+---
