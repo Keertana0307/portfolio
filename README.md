@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 * Actively involved in **Sunway Analytics Society (SAS)** – contributing to data analytics events and projects.
-* Experienced in **leadership and volunteering** through AIESEC.
+* Experienced in leadership and volunteering through **AIESEC**.
 * Skilled in **Excel, Python, SQL, and SAS**.
 * Passionate about **data-driven problem solving** and applying analytics to real-world challenges.
 
