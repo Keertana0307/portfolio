@@ -44,7 +44,7 @@
 * BMI impacted sleep duration, with overweight individuals sleeping less on average.
 * Regression model (R² = 0.79) identified **quality of sleep** as the strongest predictor of sleep duration, followed by age and physical activity.
 
-**Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+**Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) <br>
 **Report Document:** [![Download Report](https://img.shields.io/badge/Download-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/0cafd13c0392cad47c696fadeb530e88cd04e041/Sleep%20Health%20and%20Lifestyle%20Dataset%20Analysis.pdf)
 
 
@@ -132,7 +132,7 @@
 * Environmental satisfaction emerged as a growing factor (2021).
 * Training opportunities were distributed equitably across departments.
 
-**Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance)
+**Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance) <br>
 **Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/f57b3e8c3db7d9520a483dd6f81e35a98af61e7d/Analyzing%20Workplace%20Dynamics.pdf)
 
 
@@ -244,7 +244,7 @@
 * Socio-economic and maternal factors were most predictive.
 * Highlighted recall > accuracy in healthcare predictions.
 
+**Dataset:** [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QOPLVI) <br>
 **Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/1b665c0f51f01cd7f8f2cb822de0a8f9314fd9b6/Predictive%20Modelling%20and%20Model%20Evaluation%20of%20Child%20Mortality%20Risk%20Among%20Teen%20Mothers%20in%20Western%20Kenya.pdf)
-**Dataset:** [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QOPLVI)
 
 ---
