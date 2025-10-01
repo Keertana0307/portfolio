@@ -72,8 +72,8 @@
 * Delivered a functional database with strong normalization, constraints, and performance optimization.
 * Supported actionable business questions (e.g., service improvement, property popularity trends).
 
-**Kaggle Dataset:** Not applicable
-**Report Document:** [Download Report (PDF)](link-to-pdf)
+**Report Document:** [![Download Report (PDF)](https://img.shields.io/badge/Download-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/blob/d96cea11736545f7d0835f6a49da67c0ca058c26/DreamHaven%20Online%20Lodging%20Platform%20%E2%80%93%20Database%20Design%20%26%20Implementation.pdf)
+
 
 ---
 
@@ -100,12 +100,14 @@
 * Older customers spent slightly more per transaction.
 * Clothing (especially dresses) was the most popular item.
 
-**Kaggle Dataset:** Not applicable
-**Report Document:** [Download Report (Word/PDF)](link-to-doc)
+**Report Document:** 
+[![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/f8473e2a24be969fe70321909fe89c06eeaa1bbf/Consumer%20Behaviour%20Analysis%20using%20Microsoft%20Excel.pdf)
+[![Download Excel File](https://img.shields.io/badge/Download-Excel_File-green?style=for-the-badge&logo=microsoft-excel)](https://github.com/Keertana0307/portfolio/raw/f8473e2a24be969fe70321909fe89c06eeaa1bbf/Consumer%20Behaviour%20Analysis%20using%20Microsoft%20Excel.xlsx)
+
 
 ---
 
-## 4. Analyzing Workplace Dynamics: Employee Performance, Satisfaction & Training
+## 4. Analyzing Workplace Dynamics: Factors Influencing Employees’ Performance, Satisfaction, and Training Opportunities Across Departments and Genders
 
 **Tools:** SAS OnDemand for Academics, Kaggle Dataset
 
@@ -131,7 +133,8 @@
 * Training opportunities were distributed equitably across departments.
 
 **Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance)
-**Report Document:** [Download Report (PDF)](link-to-pdf)
+**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/f57b3e8c3db7d9520a483dd6f81e35a98af61e7d/Analyzing%20Workplace%20Dynamics.pdf)
+
 
 ---
 
@@ -157,12 +160,12 @@
 * IMS improves demand planning with AI forecasting.
 * RMS streamlines reverse logistics, reducing cost and boosting customer satisfaction.
 
-**Kaggle Dataset:** Not applicable
-**Report Document:** [Download Report (PDF)](link-to-pdf)
+**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/f2f7345acc3d16ee9231a5954a6c6464e80b0c2b/Enterprise%20Architecture%20For%20Trendy.pdf)
+
 
 ---
 
-## 6. Smart iZone Waitlist System
+## 6. Sunway's Smart iZone Waitlist System
 
 **Tools:** SDLC (Waterfall), Figma, UML Diagrams (Use Case, Sequence, State Transition), Usability Testing
 
@@ -184,8 +187,11 @@
 * Students reported improved transparency and reduced stress.
 * Notifications and dashboard auto-refresh improved efficiency.
 
-**Kaggle Dataset:** Not applicable
-**Report Document:** [Download Report (PDF)](link-to-pdf)
+## 📱 Sunway's Smart iZone Waitlist System
+
+[![Download PDF Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/4dc1da550e8873b30042e432239223f37f996c31/Sunway's%20Smart%20iZone%20Waitlist%20System.pdf)
+[![View Figma Prototype](https://img.shields.io/badge/View-Figma-Prototype-purple?style=for-the-badge&logo=figma)](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System?node-id=752-825&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=637%3A1315&show-proto-sidebar=1)
+
 
 ---
 
@@ -211,12 +217,11 @@
 * Improved transparency and user convenience.
 * Demonstrated scalable design for SME growth.
 
-**Kaggle Dataset:** Not applicable
-**Report Document:** [Download Report (PDF)](link-to-pdf)
+**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/49db11e5e62126070d6a2ba587c3df52d3aa5926/DobiQueen%20QR-Based%20Laundry%20Cycle%20Tracker.pdf)
 
 ---
 
-## 8. Predictive Modelling of Child Mortality Among Teen Mothers in Western Kenya
+## 8. Predictive Modelling and Model Evaluation of Child Mortality Risk Among Teen Mothers in Western Kenya
 
 **Tools:** Python (Pandas, Scikit-learn, Matplotlib, Seaborn), Harvard Dataverse Dataset
 
@@ -239,8 +244,7 @@
 * Socio-economic and maternal factors were most predictive.
 * Highlighted recall > accuracy in healthcare predictions.
 
-**Kaggle Dataset:** Not applicable
-**Report Document:** [Download Report (PDF)](link-to-pdf)
+**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/1b665c0f51f01cd7f8f2cb822de0a8f9314fd9b6/Predictive%20Modelling%20and%20Model%20Evaluation%20of%20Child%20Mortality%20Risk%20Among%20Teen%20Mothers%20in%20Western%20Kenya.pdf)
 **Dataset:** [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QOPLVI)
 
 ---
