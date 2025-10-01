@@ -45,7 +45,7 @@
 * Regression model (R² = 0.79) identified **quality of sleep** as the strongest predictor of sleep duration, followed by age and physical activity.
 
 **Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
-**Report Document:** [Download Report (PDF)](link-to-pdf)
+**Report Document:** [Download Report (PDF)](assets/Group Assignment (Statistics).pdf)
 
 ---
 
