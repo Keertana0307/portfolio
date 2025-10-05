@@ -189,7 +189,7 @@
 
 **Report Document:** [![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/4dc1da550e8873b30042e432239223f37f996c31/Sunway's%20Smart%20iZone%20Waitlist%20System.pdf)
 
-**Figma Prototype:** [![View Figma Prototype](https://img.shields.io/badge/View-Figma-Prototype-purple?style=for-the-badge)](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System?node-id=752-825&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=637%3A1315&show-proto-sidebar=1)
+**Figma Prototype:** [![View Figma Prototype](https://img.shields.io/badge/View_Figma_Prototype-purple?style=for-the-badge&logo=figma)](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System?node-id=752-825&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=637%3A1315&show-proto-sidebar=1)
 
 
 ---
