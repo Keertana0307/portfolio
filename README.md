@@ -133,7 +133,7 @@
 * Training opportunities were distributed equitably across departments.
 
 **Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance) <br>
-**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/f57b3e8c3db7d9520a483dd6f81e35a98af61e7d/Analyzing%20Workplace%20Dynamics.pdf)
+**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/blob/f57b3e8c3db7d9520a483dd6f81e35a98af61e7d/Analyzing%20Workplace%20Dynamics.pdf)
 
 
 ---
