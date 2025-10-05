@@ -101,6 +101,7 @@
 * Clothing (especially dresses) was the most popular item.
 
 **Report Document:** [![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/f8473e2a24be969fe70321909fe89c06eeaa1bbf/Consumer%20Behaviour%20Analysis%20using%20Microsoft%20Excel.pdf)
+
 **Excel File:** [![Download Excel File](https://img.shields.io/badge/Download-Excel_File-green?style=for-the-badge&logo=microsoft-excel)](https://github.com/Keertana0307/portfolio/raw/f8473e2a24be969fe70321909fe89c06eeaa1bbf/Consumer%20Behaviour%20Analysis%20using%20Microsoft%20Excel.xlsx)
 
 
@@ -187,6 +188,7 @@
 * Notifications and dashboard auto-refresh improved efficiency.
 
 **Report Document:** [![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/4dc1da550e8873b30042e432239223f37f996c31/Sunway's%20Smart%20iZone%20Waitlist%20System.pdf)
+
 **Figma Prototype:** [![View Figma Prototype](https://img.shields.io/badge/View-Figma-Prototype-purple?style=for-the-badge)](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System?node-id=752-825&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=637%3A1315&show-proto-sidebar=1)
 
 
