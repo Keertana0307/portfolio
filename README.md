@@ -160,7 +160,7 @@
 * IMS improves demand planning with AI forecasting.
 * RMS streamlines reverse logistics, reducing cost and boosting customer satisfaction.
 
-**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/f2f7345acc3d16ee9231a5954a6c6464e80b0c2b/Enterprise%20Architecture%20For%20Trendy.pdf)
+**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/main/f2f7345acc3d16ee9231a5954a6c6464e80b0c2b/Enterprise%20Architecture%20For%20Trendy.pdf)
 
 
 ---
