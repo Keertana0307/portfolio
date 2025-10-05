@@ -100,9 +100,8 @@
 * Older customers spent slightly more per transaction.
 * Clothing (especially dresses) was the most popular item.
 
-**Report Document:** 
-[![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/f8473e2a24be969fe70321909fe89c06eeaa1bbf/Consumer%20Behaviour%20Analysis%20using%20Microsoft%20Excel.pdf)
-[![Download Excel File](https://img.shields.io/badge/Download-Excel_File-green?style=for-the-badge&logo=microsoft-excel)](https://github.com/Keertana0307/portfolio/raw/f8473e2a24be969fe70321909fe89c06eeaa1bbf/Consumer%20Behaviour%20Analysis%20using%20Microsoft%20Excel.xlsx)
+**Report Document:** [![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/f8473e2a24be969fe70321909fe89c06eeaa1bbf/Consumer%20Behaviour%20Analysis%20using%20Microsoft%20Excel.pdf)
+**Excel File:** [![Download Excel File](https://img.shields.io/badge/Download-Excel_File-green?style=for-the-badge&logo=microsoft-excel)](https://github.com/Keertana0307/portfolio/raw/f8473e2a24be969fe70321909fe89c06eeaa1bbf/Consumer%20Behaviour%20Analysis%20using%20Microsoft%20Excel.xlsx)
 
 
 ---
