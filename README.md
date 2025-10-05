@@ -1,4 +1,4 @@
-## Education
+# Education
 
 📍 **Bachelor of Information Systems (Data Analytics)**, Sunway University, Selangor <br>
 📊 **CGPA: 3.81** <br>
@@ -7,7 +7,7 @@
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 * Actively involved in **Sunway Analytics Society (SAS)** – contributing to data analytics events and projects.
 * Experienced in leadership and volunteering through **AIESEC**.
