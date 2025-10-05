@@ -1,4 +1,4 @@
-# Keertana A/P Subramaniam
+## Education
 
 📍 **Bachelor of Information Systems (Data Analytics)**, Sunway University, Selangor <br>
 📊 **CGPA: 3.81** <br>
