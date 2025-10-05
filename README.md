@@ -133,7 +133,7 @@
 * Training opportunities were distributed equitably across departments.
 
 **Kaggle Dataset:** [View Dataset](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance) <br>
-**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/blob/f57b3e8c3db7d9520a483dd6f81e35a98af61e7d/Analyzing%20Workplace%20Dynamics.pdf)
+**Report Document:** [![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/blob/f57b3e8c3db7d9520a483dd6f81e35a98af61e7d/Analyzing%20Workplace%20Dynamics.pdf)
 
 
 ---
@@ -160,7 +160,7 @@
 * IMS improves demand planning with AI forecasting.
 * RMS streamlines reverse logistics, reducing cost and boosting customer satisfaction.
 
-**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/main/f2f7345acc3d16ee9231a5954a6c6464e80b0c2b/Enterprise%20Architecture%20For%20Trendy.pdf)
+**Report Document:** [![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/main/f2f7345acc3d16ee9231a5954a6c6464e80b0c2b/Enterprise%20Architecture%20For%20Trendy.pdf)
 
 
 ---
@@ -187,8 +187,8 @@
 * Students reported improved transparency and reduced stress.
 * Notifications and dashboard auto-refresh improved efficiency.
 
-[![Download PDF Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/4dc1da550e8873b30042e432239223f37f996c31/Sunway's%20Smart%20iZone%20Waitlist%20System.pdf)
-[![View Figma Prototype](https://img.shields.io/badge/View-Figma-Prototype-purple?style=for-the-badge&logo=figma)](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System?node-id=752-825&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=637%3A1315&show-proto-sidebar=1)
+[![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/4dc1da550e8873b30042e432239223f37f996c31/Sunway's%20Smart%20iZone%20Waitlist%20System.pdf)
+[![View Figma Prototype](https://img.shields.io/badge/View-Figma-Prototype-purple?style=for-the-badge)](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System?node-id=752-825&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=637%3A1315&show-proto-sidebar=1)
 
 
 ---
@@ -215,7 +215,7 @@
 * Improved transparency and user convenience.
 * Demonstrated scalable design for SME growth.
 
-**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/49db11e5e62126070d6a2ba587c3df52d3aa5926/DobiQueen%20QR-Based%20Laundry%20Cycle%20Tracker.pdf)
+**Report Document:** [![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/49db11e5e62126070d6a2ba587c3df52d3aa5926/DobiQueen%20QR-Based%20Laundry%20Cycle%20Tracker.pdf)
 
 ---
 
@@ -243,6 +243,6 @@
 * Highlighted recall > accuracy in healthcare predictions.
 
 **Dataset:** [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QOPLVI) <br>
-**Report Document:** [![Download Report](https://img.shields.io/badge/Download-PDF-Report-blue?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/1b665c0f51f01cd7f8f2cb822de0a8f9314fd9b6/Predictive%20Modelling%20and%20Model%20Evaluation%20of%20Child%20Mortality%20Risk%20Among%20Teen%20Mothers%20in%20Western%20Kenya.pdf)
+**Report Document:** [![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/1b665c0f51f01cd7f8f2cb822de0a8f9314fd9b6/Predictive%20Modelling%20and%20Model%20Evaluation%20of%20Child%20Mortality%20Risk%20Among%20Teen%20Mothers%20in%20Western%20Kenya.pdf)
 
 ---
