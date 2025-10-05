@@ -1,9 +1,9 @@
 # Keertana A/P Subramaniam
 
-📍 Bachelor of Information Systems (Data Analytics), Sunway University, Selangor <br>
-📊 CGPA: 3.81 <br>
-🏆 Dean’s List Award (4 semesters) <br>
-📅 Available for Internship: 19 January 2026 – 17 April 2026
+📍 **Bachelor of Information Systems (Data Analytics)**, Sunway University, Selangor <br>
+📊 **CGPA: 3.81** <br>
+🏆 **Dean’s List Award (4 semesters)** <br>
+📅 Available for Internship: **19 January 2026 – 17 April 2026**
 
 ---
 
