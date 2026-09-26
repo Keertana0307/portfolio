@@ -23,12 +23,39 @@
 
 # 💼 Professional Experience
 
-## Deloitte — Internship
+## Deloitte Malaysia — Clients & Markets (Internal Client Services) Intern
 
-* Completed an internship at **Deloitte**, gaining professional experience in a corporate working environment.
-* Applied academic knowledge and analytical problem-solving skills in a professional setting.
-* Developed experience working collaboratively, communicating within a professional environment, and adapting to structured business workflows.
-* Strengthened practical understanding of how technology, data, and analytical thinking can be applied to real-world business problems.
+*Jan 2026 – Apr 2026*
+
+* **CRM Pipeline & Client Campaign Operations (Salesforce / Jupiter):**
+
+  * Led the end-to-end data lifecycle for key client engagement campaigns, including the **Deloitte Buka Puasa Iftar 2026** networking event.
+  * Consolidated and validated registration records against the master CRM database, establishing verified parent-child account hierarchies and resolving complex duplicate contact entries.
+  * Conducted historical opportunity analyses on attendees to equip partners with account histories, service interactions, and commercial intelligence ahead of networking sessions.
+  * Coordinated with local system administrators and raised support tickets with the global technical support desk to resolve object permissions, access barriers, and record ownership transitions.
+
+* **Process Engineering & SOP Documentation:**
+
+  * Created the department’s official, comprehensive **Standard Operating Procedure (SOP)** user guide for Salesforce (Jupiter) campaign management to streamline team adoption.
+  * Formatted complex backend workflows—including campaign hierarchy setup, contact enrichment, attendee status tracking, and error resolution—into modular, annotated visual procedures.
+  * Co-facilitated internal team enablement briefings alongside the manager to train colleagues on the newly deployed CRM workflow.
+
+* **Business Enquiry Tracking & Analytics:**
+
+  * Managed the centralized firmwide incoming business mailbox, systematically categorizing and routing multi-sector inquiries to respective business units: Audit & Assurance (A&A), Tax & Legal (T&L), Strategy, Risk & Transactions (SR&T), and Technology & Transformation (T&T).
+  * Maintained high-integrity operational tracking datasets used for executive reporting and **Power BI** dashboard visualisations to track demand trends across service lines.
+
+* **Strategic Market & Competitor Intelligence:**
+
+  * Researched competitor service offerings, public announcements, and press releases across top financial media to produce structured competitive positioning trackers.
+  * Executed target-market research mapping the **13th Malaysia Plan (RMK-13)** against the Energy, Resources & Industrials (ER&I) sector, profiling participating firms, joint ventures, and capital allocations to uncover prospective client opportunities.
+
+* **Cross-Functional & Firmwide Initiatives:**
+
+  * Handled attendee logistics and operational floor coordination for **200+ employees** during the *Deloitte as One (DAO)* firmwide conference.
+  * Supported CSR technical hardware operations for the *KidsEdu* program by testing, cataloging, and triaging corporate laptops prior to external refurbishment.
+
+**Core Competencies & Tools:** Salesforce (Jupiter CRM) · Data Cleansing & Reconciliation · Pipeline Opportunity Tracking · SOP Authoring · Competitor Intelligence · Microsoft Excel · Power BI · Business Operations
 
 ---
 
