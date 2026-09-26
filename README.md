@@ -27,35 +27,35 @@
 
 *Jan 2026 – Apr 2026*
 
-* **CRM Pipeline & Client Campaign Operations (Salesforce / Jupiter):**
+* **CRM & Client Campaign Support:**
 
-  * Led the end-to-end data lifecycle for key client engagement campaigns, including the **Deloitte Buka Puasa Iftar 2026** networking event.
-  * Consolidated and validated registration records against the master CRM database, establishing verified parent-child account hierarchies and resolving complex duplicate contact entries.
-  * Conducted historical opportunity analyses on attendees to equip partners with account histories, service interactions, and commercial intelligence ahead of networking sessions.
-  * Coordinated with local system administrators and raised support tickets with the global technical support desk to resolve object permissions, access barriers, and record ownership transitions.
+  * Worked with **Salesforce (Jupiter)** to manage client engagement campaigns, including the **Deloitte Buka Puasa Iftar 2026** networking event.
+  * Cleaned and checked registration records against the master CRM database, including matching accounts, identifying duplicate contacts, and updating account relationships.
+  * Reviewed previous opportunities and client records for event attendees to help partners better understand their existing relationships with Deloitte.
+  * Worked with local system administrators and the global technical support team to resolve access issues, record ownership changes, and system permissions.
 
-* **Process Engineering & SOP Documentation:**
+* **SOP & Process Documentation:**
 
-  * Created the department’s official, comprehensive **Standard Operating Procedure (SOP)** user guide for Salesforce (Jupiter) campaign management to streamline team adoption.
-  * Formatted complex backend workflows—including campaign hierarchy setup, contact enrichment, attendee status tracking, and error resolution—into modular, annotated visual procedures.
-  * Co-facilitated internal team enablement briefings alongside the manager to train colleagues on the newly deployed CRM workflow.
+  * Created a **Standard Operating Procedure (SOP)** guide for Salesforce (Jupiter) campaign management to help the team follow the new process more easily.
+  * Documented key processes such as setting up campaign hierarchies, updating contact information, tracking attendee status, and handling common errors.
+  * Assisted the manager in conducting internal briefings to introduce the new CRM process and guide team members through the system.
 
-* **Business Enquiry Tracking & Analytics:**
+* **Business Enquiry Tracking & Reporting:**
 
-  * Managed the centralized firmwide incoming business mailbox, systematically categorizing and routing multi-sector inquiries to respective business units: Audit & Assurance (A&A), Tax & Legal (T&L), Strategy, Risk & Transactions (SR&T), and Technology & Transformation (T&T).
-  * Maintained high-integrity operational tracking datasets used for executive reporting and **Power BI** dashboard visualisations to track demand trends across service lines.
+  * Managed the firmwide business enquiry mailbox by reviewing, categorising, and forwarding enquiries to the appropriate business units, including Audit & Assurance, Tax & Legal, Strategy, Risk & Transactions, and Technology & Transformation.
+  * Maintained enquiry tracking data used for internal reporting and **Power BI** dashboards to monitor demand and enquiry trends across different service lines.
 
-* **Strategic Market & Competitor Intelligence:**
+* **Market & Competitor Research:**
 
-  * Researched competitor service offerings, public announcements, and press releases across top financial media to produce structured competitive positioning trackers.
-  * Executed target-market research mapping the **13th Malaysia Plan (RMK-13)** against the Energy, Resources & Industrials (ER&I) sector, profiling participating firms, joint ventures, and capital allocations to uncover prospective client opportunities.
+  * Researched competitor services, announcements, and press releases to support the team in tracking market developments and competitor activities.
+  * Conducted research on the **13th Malaysia Plan (RMK-13)** and its relevance to the Energy, Resources & Industrials (ER&I) sector, including companies involved, joint ventures, and planned investments.
 
-* **Cross-Functional & Firmwide Initiatives:**
+* **Firmwide & CSR Support:**
 
-  * Handled attendee logistics and operational floor coordination for **200+ employees** during the *Deloitte as One (DAO)* firmwide conference.
-  * Supported CSR technical hardware operations for the *KidsEdu* program by testing, cataloging, and triaging corporate laptops prior to external refurbishment.
+  * Supported the organisation of the **Deloitte as One (DAO)** firmwide conference, including attendee logistics and on-site coordination for more than **200 employees**.
+  * Supported the **KidsEdu** CSR programme by testing, recording, and sorting corporate laptops before they were sent for refurbishment.
 
-**Core Competencies & Tools:** Salesforce (Jupiter CRM) · Data Cleansing & Reconciliation · Pipeline Opportunity Tracking · SOP Authoring · Competitor Intelligence · Microsoft Excel · Power BI · Business Operations
+**Core Competencies & Tools:** Salesforce (Jupiter CRM) · Data Cleaning & Reconciliation · Microsoft Excel · Power BI · SOP Documentation · Business Research · Competitor Research · Business Operations
 
 ---
 
