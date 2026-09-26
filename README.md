@@ -246,3 +246,163 @@
 **Report Document:** [![Download PDF Report](https://img.shields.io/badge/Download-PDF_Report-red?style=for-the-badge)](https://github.com/Keertana0307/portfolio/raw/1b665c0f51f01cd7f8f2cb822de0a8f9314fd9b6/Predictive%20Modelling%20and%20Model%20Evaluation%20of%20Child%20Mortality%20Risk%20Among%20Teen%20Mothers%20in%20Western%20Kenya.pdf)
 
 ---
+
+## 9. Nudgr – Gamified Mobile Application for Student Procrastination Management
+
+**Tools:** Python, Pandas, Scikit-learn, Flutter, Firebase, Google Gemini API, Machine Learning, Generative AI, Figma
+
+**Objectives:**
+
+* Investigate the behavioural and psychological factors associated with academic procrastination among university students.
+* Develop machine learning models to predict students' procrastination risk.
+* Integrate the selected predictive model into a functional mobile application.
+* Use Generative AI to help students break academic tasks into smaller, manageable subtasks.
+* Improve task management and student engagement through personalised reminders, behavioural nudges, and gamification.
+
+**Key Analysis:**
+
+* Pre-processed and analysed a dataset based on the **Procrastination Assessment Scale–Student (PASS)** questionnaire.
+* Compared multiple machine learning algorithms, including Logistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting, k-NN, and MLP.
+* Evaluated model performance using accuracy, precision, recall, F1-score, confusion matrices, and cross-validation.
+* Selected **Random Forest** as the final predictive model based on comparative model evaluation.
+* Developed a cross-platform mobile application using **Flutter** with **Firebase** for authentication, database management, storage, and notifications.
+* Integrated the **Google Gemini API** to generate personalised academic task breakdowns and subtasks.
+* Implemented task management, behavioural nudges, personalised reminders, progress tracking, achievements, virtual garden features, and leaderboard-based gamification.
+* Conducted functional and integration testing to evaluate system reliability.
+* Conducted pilot testing with university students and evaluated usability using the **System Usability Scale (SUS)**.
+
+**Findings:**
+
+* Random Forest achieved **76.27% validation accuracy, 82.35% precision, 77.78% recall, and 80.00% F1-score**.
+* The model achieved **80.00% recall** on the independent test set for identifying students at high risk of procrastination.
+* Feature importance analysis identified key behavioural factors contributing to the model's predictions.
+* Successfully integrated machine learning, Generative AI, cloud services, mobile development, and gamification into a single functional application.
+* Pilot testing achieved an average **SUS score of 70.75**, indicating good overall usability.
+* User feedback indicated that AI-assisted task planning helped simplify academic tasks, while gamification encouraged continued engagement.
+
+**Machine Learning Repository:** [View GitHub Repository](https://github.com/Keertana0307/nudgr_ml) <br>
+**Mobile Application Repository:** [View GitHub Repository](https://github.com/keets-commits/nudgr_app) <br>
+**Web Application:** [Open Nudgr](https://nudgr-95673.web.app/)
+
+---
+
+## 10. Query Optimization for Complex Join Queries Using Causal-Guided Reinforcement Learning
+
+**Tools:** Python, PyTorch, Scikit-learn, Google Colab, NetworkX, NumPy, Matplotlib, MongoDB
+
+**Objectives:**
+
+* Analyze and evaluate existing query optimization techniques for complex multi-join queries.
+* Develop a **Causal-Graph Guided Reinforcement Learning (CG-RL)** approach for join order optimization.
+* Compare the proposed reinforcement learning approach with supervised learning models.
+* Evaluate optimization performance based on join selection quality, learning efficiency, and query execution cost.
+* Observe the execution behaviour of equivalent multi-join workloads in a NoSQL database environment.
+
+**Key Analysis:**
+
+* Reviewed recent query optimization techniques covering AI-driven optimization, evolutionary and metaheuristic methods, cardinality estimation, adaptive optimization, and GPU-based optimization.
+* Developed a simulated relational database environment using Python and Google Colab with synthetic multi-table datasets and causal relationships.
+* Implemented a **Deep Q-Network (DQN)** agent using PyTorch to learn cost-efficient table join sequences.
+* Represented table dependencies using a **Directed Acyclic Graph (DAG)** and incorporated causal relationships into the reinforcement learning reward mechanism.
+* Applied ε-greedy exploration, Double DQN, experience replay, and target networks to improve reinforcement learning stability.
+* Compared CG-RL against **Decision Tree, Random Forest, and Logistic Regression** using accuracy, precision, recall, and F1-score.
+* Evaluated reinforcement learning performance using cumulative reward, average episode reward, and learning progression.
+* Conducted additional query execution experiments using **MongoDB aggregation pipelines with `$lookup`** to observe multi-collection join behaviour.
+
+**Findings:**
+
+* CG-RL achieved **60.00% accuracy, 60.00% precision, 43.33% recall, and 48.33% F1-score** for join selection.
+* Supervised models achieved higher classification-based metrics, with Decision Tree reaching 67.40% accuracy, Random Forest 66.60%, and Logistic Regression 66.70%.
+* The CG-RL agent demonstrated learning progression, with average episode reward improving from **−3.65** during early training to **−0.51** in the final episode.
+* The results demonstrated that CG-RL can learn cost-efficient join strategies over time through sequential decision-making rather than relying on static decision rules.
+* The study identified a trade-off between **short-term prediction accuracy and long-term adaptability**, with reinforcement learning requiring greater training complexity.
+* MongoDB successfully executed equivalent multi-collection workloads through aggregation pipelines, but without adaptive join-order optimization.
+* The study highlighted the potential of causal-guided reinforcement learning for query optimization while identifying the need for further validation using real-world database workloads.
+
+**GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/CGRL-Query)
+
+---
+
+## 11. Sustainable Route Optimization Using AI Search Algorithms
+
+**Tools:** Python, Google Maps, Moovit, Draw.io, A*, Breadth-First Search (BFS), Uniform Cost Search (UCS), Greedy Best-First Search, OSRM, CARTO
+
+**Objectives:**
+
+* Model a multi-stop route planning problem from **Sunway University** to the residential locations of five group members.
+* Apply AI search algorithms to identify an efficient route while considering both **carbon emissions and travel expenses**.
+* Compare uninformed and informed search algorithms, including **BFS, UCS, and A***, based on optimality, efficiency, and suitability for the problem.
+* Develop an A* search implementation capable of tracking visited locations and finding a minimum-cost route.
+* Visualise the final route using geographical coordinates and road-network information.
+* Explore how the route optimisation system could be extended to support changing environmental conditions and additional constraints.
+
+**Key Analysis:**
+
+* Collected route, distance, transportation, carbon emission, and travel expense data using **Google Maps** and public transportation planning tools.
+* Modelled the problem as a weighted graph consisting of **Sunway University and five residential locations**.
+* Developed a combined path-cost function using **60% normalised carbon emissions and 40% normalised travel expenses**, prioritising sustainability while considering affordability.
+* Analysed and compared **Breadth-First Search, Uniform Cost Search, and A*** for the route optimisation problem.
+* Explored **Greedy Best-First Search** as an additional algorithm to understand heuristic-based decision-making and support the selection of suitable search algorithms.
+* Extended the project into an A* implementation using state representation, a visited set, accumulated path cost `g(n)`, heuristic cost `h(n)`, and priority-based search.
+* Designed and explained the **goal-state condition and heuristic function** used by the A* implementation.
+* Developed a route visualisation using geographical coordinates, **OSRM road routing**, CARTO map tiles, animation frames, and video encoding to demonstrate the generated route.
+* Analysed potential extensions involving dynamic traffic conditions, fuel prices, budget constraints, travel-time constraints, and additional route-planning requirements.
+
+**My Contributions:**
+
+* Defined and explained the **Goal State** for the multi-destination route optimisation problem.
+* Developed the **Path Cost Function** together with the group leader, combining carbon emissions and travel expenses through normalisation and weighted evaluation.
+* Explored and implemented **Greedy Best-First Search** as an additional algorithm for comparison before the final selection of algorithms.
+* Contributed to the **algorithm comparison, conclusion, and justification** of the selected approach.
+* In the A* implementation phase, explained the **Goal State and Heuristic Function Design** and how they support the search process.
+* Developed the **route visualisation video**, ensuring that the visualised route corresponded with the route generated by the A* algorithm.
+* Recorded and contributed to the **video presentation**, translating the technical implementation into a clear explanation of the project.
+
+**Findings:**
+
+* The A* implementation successfully identified the route **Sunway University → Vidhipriya → Wen Li → Hui San → Keertana → Qi Yung**.
+* The resulting route achieved a total accumulated path cost of **1.11854** based on the combined carbon-emission and travel-expense cost function.
+* The project demonstrated how AI search algorithms can be applied to a real-world route-planning problem involving multiple destinations and competing sustainability and financial considerations.
+* A* used `g(n) + h(n)` to balance the accumulated route cost with an estimate of the remaining cost, allowing the search to focus on promising routes.
+* The project highlighted the importance of **problem formulation, state representation, heuristic design, and goal conditions** in determining the effectiveness of an AI search solution.
+* The implementation can be extended with real-time traffic and fuel-price data, additional constraints, alternative route options, and more advanced heuristic techniques.
+
+**GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/AI_Assignment_2-Group_Giggle)
+
+---
+
+## 10. Query Optimization for Complex Join Queries Using Causal-Guided Reinforcement Learning
+
+**Tools:** Python, PyTorch, Scikit-learn, Google Colab, NetworkX, NumPy, Matplotlib, MongoDB
+
+**Objectives:**
+
+* Analyse and evaluate existing query optimization techniques for complex multi-join queries.
+* Develop a **Causal-Graph Guided Reinforcement Learning (CG-RL)** approach for join-order optimization.
+* Compare the proposed reinforcement learning approach with supervised learning models.
+* Evaluate optimization performance based on join selection quality, learning behaviour, and query execution cost.
+* Investigate the execution behaviour of equivalent multi-join workloads in a NoSQL database environment.
+
+**Key Analysis:**
+
+* Reviewed recent query optimization techniques covering AI-driven optimization, reinforcement learning, evolutionary and metaheuristic methods, cardinality estimation, adaptive optimization, and GPU-based optimization.
+* Developed a simulated relational database environment using **Python and Google Colab** with synthetic multi-table datasets and causal relationships.
+* Implemented a **Deep Q-Network (DQN)** reinforcement learning agent using **PyTorch** to learn table join sequences.
+* Represented relationships between database tables using a **Directed Acyclic Graph (DAG)** and incorporated causal relationships into the reward mechanism.
+* Applied **ε-greedy exploration, Double DQN, experience replay, and target networks** to support reinforcement learning stability.
+* Compared the CG-RL approach with **Decision Tree, Random Forest, and Logistic Regression** using accuracy, precision, recall, and F1-score.
+* Evaluated reinforcement learning behaviour using cumulative reward, average episode reward, and learning progression.
+* Conducted additional experiments using **MongoDB aggregation pipelines with `$lookup`** to observe equivalent multi-collection query execution.
+* Analysed the trade-off between short-term join-selection accuracy and the ability of reinforcement learning to improve strategies through sequential decision-making.
+
+**Findings:**
+
+* The CG-RL DQN achieved **60.00% accuracy, 60.00% precision, 43.33% recall, and 48.33% F1-score** for join selection.
+* The supervised baseline models achieved higher classification metrics, with Decision Tree achieving **67.40% accuracy**, Random Forest **66.60%**, and Logistic Regression **66.70%**.
+* The CG-RL agent demonstrated learning progression, with average episode reward improving from **−3.65** during early training to **−0.51** in the final episode.
+* The CG-RL agent achieved a cumulative reward of **−2956.94**, compared with an optimal-policy cumulative reward of **1.07**, indicating learning progression toward more cost-efficient join sequences.
+* The project demonstrated that reinforcement learning can learn join strategies through sequential decision-making rather than relying solely on static classification rules.
+* MongoDB successfully executed equivalent multi-collection workloads using `$lookup`, but the experiment did not provide adaptive join-order optimization.
+* The study highlighted the trade-off between **adaptive learning and short-term prediction accuracy**, as well as the higher computational requirements associated with reinforcement learning.
+
+**GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/CGRL-Query)
