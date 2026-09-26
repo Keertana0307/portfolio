@@ -225,7 +225,8 @@ Projects are arranged according to their relevance to **data analytics, machine 
 * MongoDB successfully executed equivalent multi-collection workloads using `$lookup`, but the experiment did not provide adaptive join-order optimization.
 * The study highlighted the trade-off between **adaptive learning and short-term prediction accuracy**, as well as the higher computational requirements associated with reinforcement learning.
 
-**GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/CGRL-Query)
+**GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/CGRL-Query-Optimization/) ,br.
+**Report:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](A%20Study%20of%20Query%20Optimization%20for%20Complex%20Join.pdf) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/A%20Study%20of%20Query%20Optimization%20for%20Complex%20Join.pdf)
 
 ---
 
