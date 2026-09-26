@@ -406,3 +406,53 @@
 * The study highlighted the trade-off between **adaptive learning and short-term prediction accuracy**, as well as the higher computational requirements associated with reinforcement learning.
 
 **GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/CGRL-Query)
+
+---
+
+## 11. Brazilian Olist E-Commerce Business Analytics – Descriptive and Predictive Analytics
+
+**Tools:** Python, Pandas, XGBoost, Power BI, Google Colab
+
+**Objectives:**
+
+* Analyse the Brazilian Olist E-Commerce dataset to identify sales, logistics, delivery, product, and geographical patterns.
+* Evaluate delivery performance and identify factors associated with late deliveries.
+* Detect anomalies in delivery times, sales trends, and freight-to-price ratios.
+* Develop and compare machine learning models to predict whether an order will be delivered late.
+* Generate data-driven insights to support logistics planning, operational improvement, and business decision-making.
+
+**Key Analysis:**
+
+* Analysed five Olist datasets covering **orders, order items, products, customers, and product category translations**.
+* Conducted data cleaning and preparation using **Python and Pandas**, including duplicate removal, date conversion, missing-value handling, category translation, and dataset merging.
+* Filtered completed orders with valid delivery information to support delivery-performance analysis.
+* Performed feature engineering by creating delivery, temporal, product, order-value, seller, category, and freight-related variables.
+* Created features including **delivery status, delivery delay, estimated delivery period, total order value, total freight value, unique seller count, unique category count, product volume, and freight-to-price ratio**.
+* Applied descriptive analytics and interactive visualizations using **Power BI** to analyse delivery performance, product categories, shipping costs, customer locations, and sales trends.
+* Conducted anomaly detection using the **Interquartile Range (IQR)** method to identify extreme late deliveries, extreme early deliveries, high freight-cost ratios, and unusual sales trends.
+* Developed and compared **Logistic Regression, Random Forest, and XGBoost** classification models for late-delivery prediction.
+* Applied missing-value imputation, One-Hot Encoding, numerical standardization where required, and an **80/20 stratified train-test split**.
+* Excluded variables that directly revealed the delivery outcome to reduce **data leakage** during predictive modelling.
+* Evaluated model performance using **Accuracy, Balanced Accuracy, Recall, F1-score, ROC-AUC, and PR-AUC**, with particular attention to the imbalanced late-delivery class.
+
+**My Contribution:**
+
+* Conducted the **literature review** and identified the **research gap** for integrating descriptive analytics, anomaly detection, business intelligence, and predictive modelling within a single e-commerce analytics workflow.
+* Performed **data cleaning and preparation** of the Olist datasets using Python and Pandas.
+* Developed and implemented the **machine learning models** for late-delivery prediction.
+* Prepared the machine learning methodology covering **data preprocessing, model development, target and predictor selection, and evaluation criteria**.
+
+**Findings:**
+
+* **93.23%** of orders were delivered on time, while **6.77%** were classified as late.
+* Identified **446 extreme late-delivery orders** with delays exceeding 28 days.
+* Identified **1,510 extreme early-delivery orders** delivered more than 33 days earlier than estimated.
+* Identified **6,385 high freight-cost anomalies** where the freight-to-price ratio exceeded 0.75.
+* The highest average late-delivery categories included **home appliances 2 (21.93 days), music (18.00 days), and signaling & security (17.83 days)**.
+* **XGBoost** achieved the strongest overall predictive performance with **78.92% accuracy, 71.06% balanced accuracy, 61.97% recall, 0.2849 F1-score, 0.7894 ROC-AUC, and 0.2520 PR-AUC**.
+* Random Forest achieved **93.24% accuracy** but only **3.14% recall**, demonstrating the limitation of using accuracy alone for an imbalanced late-delivery prediction problem.
+* Descriptive analysis identified **São Paulo, Rio de Janeiro, and Belo Horizonte** as major customer markets by total order value.
+* The analysis identified product categories and geographical regions associated with higher delivery activity, shipping costs, and delivery delays.
+* The combined use of **descriptive analytics, anomaly detection, visualization, and predictive modelling** provided a broader view of e-commerce operational performance and potential logistics issues.
+
+---
