@@ -225,7 +225,7 @@ Projects are arranged according to their relevance to **data analytics, machine 
 * MongoDB successfully executed equivalent multi-collection workloads using `$lookup`, but the experiment did not provide adaptive join-order optimization.
 * The study highlighted the trade-off between **adaptive learning and short-term prediction accuracy**, as well as the higher computational requirements associated with reinforcement learning.
 
-**GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/CGRL-Query-Optimization/) ,br.
+**GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/CGRL-Query-Optimization/) <br>
 **Report:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](A%20Study%20of%20Query%20Optimization%20for%20Complex%20Join.pdf) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/A%20Study%20of%20Query%20Optimization%20for%20Complex%20Join.pdf)
 
 ---
@@ -329,7 +329,10 @@ Projects are arranged according to their relevance to **data analytics, machine 
 * A* used `g(n) + h(n)` to balance accumulated route cost with an estimate of remaining cost.
 * The project demonstrated the importance of **problem formulation, state representation, heuristic design, and goal conditions** in AI search.
 
-**GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/AI_Assignment_2-Group_Giggle)
+**GitHub Repository:** [![View GitHub Repository](https://img.shields.io/badge/View-GitHub_Repository-black?style=for-the-badge\&logo=github)](https://github.com/Keertana0307/AI_Assignment_2-Group_Giggle) <br>
+**A*Search Route Video:** [![View Video](https://img.shields.io/badge/View%20Video-8A2BE2?style=for-the-badge)](https://drive.google.com/file/d/1HQfuByNlHX_lGSTJhUk10Ev-Bn4kdKnY/view?usp=sharing) <br>
+**Report 1:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](CSC3206%20AI%20Assignment%201%20Report%20-%20Team%20Giggle.pdf) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/CSC3206%20AI%20Assignment%201%20Report%20-%20Team%20Giggle.pdf) <br>
+**Report 2:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](CSC3206%20AI%20Assignment%202%20Report%20-%20Team%20Giggle.pdf) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/CSC3206%20AI%20Assignment%202%20Report%20-%20Team%20Giggle.pdf)
 
 ---
 
