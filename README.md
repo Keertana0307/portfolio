@@ -183,9 +183,12 @@ Projects are arranged according to their relevance to **data analytics, machine 
 * The analysis identified product categories and geographical regions associated with higher delivery activity, shipping costs, and delivery delays.
 * The combined use of **descriptive analytics, anomaly detection, visualization, and predictive modelling** provided a broader view of e-commerce operational performance and potential logistics issues.
 
-**Power BI Dashboard:** [![View Power BI Report](https://img.shields.io/badge/View-Power_BI_Report-blue?style=for-the-badge)](https://drive.google.com/file/d/1ZdjblE_PFTumq7EHq9qhO4S69peZiFrm/view?usp=sharing) <br>
+**Dataset:** [View Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) <br>
+**Power BI Dashboard:** [![View Power BI Report](https://img.shields.io/badge/View-Power_BI_Report-blue?style=for-the-badge)](.Olist%20Store%20Dashboard) <br>
 **Data Preparation & ML:** [![View Google Colab](https://img.shields.io/badge/View-Google_Colab-orange?style=for-the-badge)](https://colab.research.google.com/drive/1Bm_DO-Hc8lbSaax9NRUPq2IbpecA7zaC?usp=sharing) <br>
-**Anomaly Analysis:** [![View Google Colab](https://img.shields.io/badge/View-Google_Colab-orange?style=for-the-badge)](https://colab.research.google.com/drive/1zeW5OPnZ4rIECPY4vhi-RVVVAW590j6h?usp=sharing)
+**Anomaly Analysis:** [![View Google Colab](https://img.shields.io/badge/View-Google_Colab-orange?style=for-the-badge)](https://colab.research.google.com/drive/1B-QScTEBQ_8Fa1yQ3oTRrIcq7EMH1jib?usp=sharing)
+**Report 1:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](.(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%202%20Report.pdf) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%202%20Report.pdf)
+**Report 2:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](.(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%203%20Report.pdf) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%203%20Report.pdf)
 
 ---
 
