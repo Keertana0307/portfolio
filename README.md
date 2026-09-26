@@ -185,10 +185,9 @@ Projects are arranged according to their relevance to **data analytics, machine 
 
 **Dataset:** [View Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) <br>
 **Power BI Dashboard:** [![View Power BI Report](https://img.shields.io/badge/View-Power_BI_Report-blue?style=for-the-badge)](.Olist%20Store%20Dashboard) <br>
-**Data Preparation & ML:** [![View Google Colab](https://img.shields.io/badge/View-Google_Colab-orange?style=for-the-badge)](https://colab.research.google.com/drive/1Bm_DO-Hc8lbSaax9NRUPq2IbpecA7zaC?usp=sharing) <br>
-**Anomaly Analysis:** [![View Google Colab](https://img.shields.io/badge/View-Google_Colab-orange?style=for-the-badge)](https://colab.research.google.com/drive/1Bm_DO-Hc8lbSaaxzNRUPq2IbpecA7zaC?usp=sharing)
-**Report 1:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](.(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%202%20Report) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%202%20Report.pdf)
-**Report 2:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](.(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%203%20Report) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%203%20Report.pdf)
+**Data Preparation & ML:** [![View Google Colab](https://img.shields.io/badge/View-Google_Colab-orange?style=for-the-badge)](https://colab.research.google.com/drive/1Bm_DO-Hc8lbSaaxzNRUPq2IbpecA7zaC?usp=sharing) <br>
+**Report 1:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](.(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%202%20Report.pdf) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%202%20Report.pdf) <br>
+**Report 2:** [![View PDF Report](https://img.shields.io/badge/View-PDF_Report-blue?style=for-the-badge)](.(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%203%20Report.pdf) [![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge)](https://raw.githubusercontent.com/Keertana0307/portfolio/main/(Advanced%20Business%20Analytics)%20Group%209%20-%20Assignment%203%20Report.pdf)
 
 ---
 
