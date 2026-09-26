@@ -10,14 +10,10 @@
 # 👩‍💻 About Me
 
 * Graduate with a **Bachelor of Information Systems (Data Analytics)** from Sunway University, graduating with **First Class Honours (Class I)** and a **CGPA of 3.78**.
-* Awarded the **Dean’s List Award for 6 semesters** in recognition of academic performance.
-* Gained professional experience through an internship at **Deloitte**.
-* Was involved in **Sunway Analytics Society (SAS)**, contributing to data analytics events and projects.
-* Experienced in leadership and volunteering through **AIESEC**.
-* Experienced in **Python, SQL, SAS, Excel, Power BI, machine learning, data visualization, statistical analysis, and database systems**.
-* Experienced with **Pandas, Scikit-learn, XGBoost, PyTorch, Flutter, Firebase, Google Gemini API, MongoDB, and Google Colab** through academic and applied projects.
-* Interested in **data analytics, business intelligence, predictive modelling, machine learning, and data-driven problem solving**.
-* Passionate about applying analytical techniques to transform data into meaningful insights and practical solutions.
+* Gained professional experience at **Deloitte Malaysia** in Clients & Markets, working with CRM data, business enquiries, Power BI reporting, market research, and business operations.
+* Developed practical experience in **data analytics, business intelligence, machine learning, statistical analysis, and database systems** through academic and applied projects.
+* Worked with **Python, SQL, SAS, Excel, Power BI, Scikit-learn, XGBoost, PyTorch, MongoDB, Flutter, Firebase, and Google Gemini API** across different projects.
+* Interested in applying **data analysis and machine learning to business problems**, particularly in areas involving predictive analytics, business intelligence, and data-driven decision-making.
 
 ---
 
@@ -59,63 +55,27 @@
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-### Programming & Data Analysis
+### Programming & Data
 
-* **Python**
-* **SQL**
-* **SAS**
-* **Microsoft Excel**
-* **Pandas**
-* **NumPy**
+`Python` · `SQL` · `SAS` · `Excel` · `Pandas` · `NumPy`
 
-### Data Analytics & Visualization
+### Analytics & BI
 
-* **Power BI**
-* **Matplotlib**
-* **Seaborn**
-* Descriptive Statistics
-* Hypothesis Testing
-* Regression Analysis
-* Exploratory Data Analysis (EDA)
-* Data Cleaning & Preparation
-* Data Visualization
+`Power BI` · `Exploratory Data Analysis` · `Data Cleaning` · `Data Visualization` · `Descriptive Statistics` · `Hypothesis Testing` · `Regression Analysis`
 
-### Machine Learning & AI
+### Machine Learning
 
-* Scikit-learn
-* XGBoost
-* PyTorch
-* Classification
-* Predictive Modelling
-* Feature Engineering
-* Model Evaluation
-* Imbalanced Data Handling
-* SMOTE
-* Reinforcement Learning
-* Deep Q-Networks (DQN)
-* Generative AI
-* Google Gemini API
+`Scikit-learn` · `XGBoost` · `PyTorch` · `Classification` · `Predictive Modelling` · `Feature Engineering` · `Model Evaluation` · `SMOTE` · `Reinforcement Learning` · `DQN`
 
-### Databases & Systems
+### Databases
 
-* Relational Database Design
-* ERD Modelling
-* Oracle SQL Developer
-* MongoDB
-* Database Query Optimization
-* UML Modelling
-* System Development Life Cycle (SDLC)
+`Oracle SQL Developer` · `MongoDB` · `Relational Database Design` · `ERD Modelling` · `Query Optimization`
 
-### Application & Design Tools
+### Development & Tools
 
-* Flutter
-* Firebase
-* Figma
-* Google Colab
-* Draw.io
-* Git & GitHub
+`Flutter` · `Firebase` · `Google Gemini API` · `Figma` · `Google Colab` · `Git & GitHub` · `Draw.io`
 
 ---
 
